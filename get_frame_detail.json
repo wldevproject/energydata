@@ -1,0 +1,539 @@
+{
+    "frame_name": "611800009",
+    "lastUpdate": "36 minutes",
+    "lastTime": "611800009",
+    "code": 200,
+    "cells": [
+        {
+            "cell": 1,
+            "health": {
+                "color": "green",
+                "value": 100.0
+            },
+            "content": {
+                "color": "green",
+                "value": 98.6
+            },
+            "voltage": {
+                "color": "green",
+                "value": 3.50
+            }
+        },
+        {
+            "cell": 2,
+            "health": {
+                "color": "green",
+                "value": 100.0
+            },
+            "content": {
+                "color": "green",
+                "value": 98.6
+            },
+            "voltage": {
+                "color": "green",
+                "value": 3.50
+            }
+        },
+        {
+            "cell": 3,
+            "health": {
+                "color": "green",
+                "value": 100.0
+            },
+            "content": {
+                "color": "green",
+                "value": 98.6
+            },
+            "voltage": {
+                "color": "green",
+                "value": 3.50
+            }
+        },
+        {
+            "cell": 4,
+            "health": {
+                "color": "green",
+                "value": 100.0
+            },
+            "content": {
+                "color": "green",
+                "value": 98.6
+            },
+            "voltage": {
+                "color": "green",
+                "value": 3.50
+            }
+        },
+        {
+            "cell": 5,
+            "health": {
+                "color": "green",
+                "value": 100.0
+            },
+            "content": {
+                "color": "green",
+                "value": 98.6
+            },
+            "voltage": {
+                "color": "green",
+                "value": 3.50
+            }
+        },
+        {
+            "cell": 6,
+            "health": {
+                "color": "green",
+                "value": 100.0
+            },
+            "content": {
+                "color": "green",
+                "value": 98.6
+            },
+            "voltage": {
+                "color": "green",
+                "value": 3.50
+            }
+        },
+        {
+            "cell": 7,
+            "health": {
+                "color": "green",
+                "value": 100.0
+            },
+            "content": {
+                "color": "green",
+                "value": 98.6
+            },
+            "voltage": {
+                "color": "green",
+                "value": 3.50
+            }
+        },
+        {
+            "cell": 8,
+            "health": {
+                "color": "green",
+                "value": 100.0
+            },
+            "content": {
+                "color": "green",
+                "value": 98.6
+            },
+            "voltage": {
+                "color": "green",
+                "value": 3.50
+            }
+        },
+        {
+            "cell": 9,
+            "health": {
+                "color": "green",
+                "value": 100.0
+            },
+            "content": {
+                "color": "green",
+                "value": 98.6
+            },
+            "voltage": {
+                "color": "green",
+                "value": 3.50
+            }
+        },
+        {
+            "cell": 10,
+            "health": {
+                "color": "green",
+                "value": 100.0
+            },
+            "content": {
+                "color": "green",
+                "value": 98.6
+            },
+            "voltage": {
+                "color": "green",
+                "value": 3.50
+            }
+        },
+        {
+            "cell": 11,
+            "health": {
+                "color": "green",
+                "value": 100.0
+            },
+            "content": {
+                "color": "green",
+                "value": 98.6
+            },
+            "voltage": {
+                "color": "green",
+                "value": 3.50
+            }
+        },
+        {
+            "cell": 12,
+            "health": {
+                "color": "green",
+                "value": 100.0
+            },
+            "content": {
+                "color": "green",
+                "value": 98.6
+            },
+            "voltage": {
+                "color": "green",
+                "value": 3.50
+            }
+        },
+        {
+            "cell": 13,
+            "health": {
+                "color": "green",
+                "value": 100.0
+            },
+            "content": {
+                "color": "green",
+                "value": 98.6
+            },
+            "voltage": {
+                "color": "green",
+                "value": 3.50
+            }
+        },
+        {
+            "cell": 14,
+            "health": {
+                "color": "green",
+                "value": 100.0
+            },
+            "content": {
+                "color": "green",
+                "value": 98.6
+            },
+            "voltage": {
+                "color": "green",
+                "value": 3.50
+            }
+        },
+        {
+            "cell": 15,
+            "health": {
+                "color": "green",
+                "value": 100.0
+            },
+            "content": {
+                "color": "green",
+                "value": 98.6
+            },
+            "voltage": {
+                "color": "green",
+                "value": 3.50
+            }
+        },
+        {
+            "cell": 16,
+            "health": {
+                "color": "green",
+                "value": 100.0
+            },
+            "content": {
+                "color": "green",
+                "value": 98.6
+            },
+            "voltage": {
+                "color": "green",
+                "value": 3.50
+            }
+        },
+        {
+            "cell": 17,
+            "health": {
+                "color": "green",
+                "value": 100.0
+            },
+            "content": {
+                "color": "green",
+                "value": 98.6
+            },
+            "voltage": {
+                "color": "green",
+                "value": 3.50
+            }
+        },
+        {
+            "cell": 18,
+            "health": {
+                "color": "green",
+                "value": 100.0
+            },
+            "content": {
+                "color": "green",
+                "value": 98.6
+            },
+            "voltage": {
+                "color": "green",
+                "value": 3.50
+            }
+        },
+        {
+            "cell": 19,
+            "health": {
+                "color": "green",
+                "value": 100.0
+            },
+            "content": {
+                "color": "green",
+                "value": 98.6
+            },
+            "voltage": {
+                "color": "green",
+                "value": 3.50
+            }
+        },
+        {
+            "cell": 20,
+            "health": {
+                "color": "green",
+                "value": 100.0
+            },
+            "content": {
+                "color": "green",
+                "value": 98.6
+            },
+            "voltage": {
+                "color": "green",
+                "value": 3.50
+            }
+        },
+        {
+            "cell": 21,
+            "health": {
+                "color": "green",
+                "value": 100.0
+            },
+            "content": {
+                "color": "green",
+                "value": 98.6
+            },
+            "voltage": {
+                "color": "green",
+                "value": 3.50
+            }
+        },
+        {
+            "cell": 22,
+            "health": {
+                "color": "green",
+                "value": 100.0
+            },
+            "content": {
+                "color": "green",
+                "value": 98.6
+            },
+            "voltage": {
+                "color": "green",
+                "value": 3.50
+            }
+        },
+        {
+            "cell": 23,
+            "health": {
+                "color": "green",
+                "value": 100.0
+            },
+            "content": {
+                "color": "green",
+                "value": 98.6
+            },
+            "voltage": {
+                "color": "green",
+                "value": 3.50
+            }
+        },
+        {
+            "cell": 24,
+            "health": {
+                "color": "green",
+                "value": 100.0
+            },
+            "content": {
+                "color": "green",
+                "value": 98.6
+            },
+            "voltage": {
+                "color": "green",
+                "value": 3.50
+            }
+        },
+        {
+            "cell": 25,
+            "health": {
+                "color": "green",
+                "value": 100.0
+            },
+            "content": {
+                "color": "green",
+                "value": 98.6
+            },
+            "voltage": {
+                "color": "green",
+                "value": 3.50
+            }
+        },
+        {
+            "cell": 26,
+            "health": {
+                "color": "green",
+                "value": 100.0
+            },
+            "content": {
+                "color": "green",
+                "value": 98.6
+            },
+            "voltage": {
+                "color": "green",
+                "value": 3.50
+            }
+        },
+        {
+            "cell": 27,
+            "health": {
+                "color": "green",
+                "value": 100.0
+            },
+            "content": {
+                "color": "green",
+                "value": 98.6
+            },
+            "voltage": {
+                "color": "green",
+                "value": 3.50
+            }
+        },
+        {
+            "cell": 28,
+            "health": {
+                "color": "green",
+                "value": 100.0
+            },
+            "content": {
+                "color": "green",
+                "value": 98.6
+            },
+            "voltage": {
+                "color": "green",
+                "value": 3.50
+            }
+        },
+        {
+            "cell": 29,
+            "health": {
+                "color": "green",
+                "value": 100.0
+            },
+            "content": {
+                "color": "green",
+                "value": 98.6
+            },
+            "voltage": {
+                "color": "green",
+                "value": 3.50
+            }
+        },
+        {
+            "cell": 30,
+            "health": {
+                "color": "green",
+                "value": 100.0
+            },
+            "content": {
+                "color": "green",
+                "value": 98.6
+            },
+            "voltage": {
+                "color": "green",
+                "value": 3.50
+            }
+        },
+        {
+            "cell": 31,
+            "health": {
+                "color": "green",
+                "value": 100.0
+            },
+            "content": {
+                "color": "green",
+                "value": 98.6
+            },
+            "voltage": {
+                "color": "green",
+                "value": 3.50
+            }
+        },
+        {
+            "cell": 32,
+            "health": {
+                "color": "green",
+                "value": 100.0
+            },
+            "content": {
+                "color": "green",
+                "value": 98.6
+            },
+            "voltage": {
+                "color": "green",
+                "value": 3.50
+            }
+        }
+    ],
+    "temperatures": {
+        "cells": [
+            {
+                "temperature": 1,
+                "value": 36.7,
+                "color": "red"
+            },
+            {
+                "temperature": 2,
+                "value": 28.7,
+                "color": "green"
+            },
+            {
+                "temperature": 3,
+                "value": 36.7,
+                "color": "red"
+            },
+            {
+                "temperature": 4,
+                "value": 36.7,
+                "color": "red"
+            },
+            {
+                "temperature": 5,
+                "value": 36.7,
+                "color": "red"
+            },
+            {
+                "temperature": 6,
+                "value": 30.1,
+                "color": "yellow"
+            }
+        ],
+        "pcbs": [
+            {
+                "temperature": 1,
+                "value": 36.7,
+                "color": "red"
+            },
+            {
+                "temperature": 2,
+                "value": 28.7,
+                "color": "green"
+            },
+            {
+                "temperature": 3,
+                "value": 36.7,
+                "color": "red"
+            }
+        ]
+    }
+}
