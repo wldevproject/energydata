@@ -1,0 +1,98 @@
+{
+    "rack_sn": "RLS002",
+    "battery": [
+        {
+            "health": {
+                "color": "red",
+                "value": 35
+            },
+            "content": {
+                "color": "green",
+                "value": 93
+            },
+            "frame_name": "611800121"
+        },
+        {
+            "health": {
+                "color": "green",
+                "value": 100
+            },
+            "content": {
+                "color": "green",
+                "value": 93
+            },
+            "frame_name": "611800123"
+        },
+        {
+            "health": {
+                "color": "green",
+                "value": 100
+            },
+            "content": {
+                "color": "green",
+                "value": 93
+            },
+            "frame_name": "611800154"
+        },
+        {
+            "health": {
+                "color": "green",
+                "value": 100
+            },
+            "content": {
+                "color": "green",
+                "value": 93
+            },
+            "frame_name": "611800182"
+        },
+        {
+            "health": {
+                "color": "green",
+                "value": 100
+            },
+            "content": {
+                "color": "green",
+                "value": 93
+            },
+            "frame_name": "611800165"
+        },
+        {
+            "health": {
+                "color": "green",
+                "value": 100
+            },
+            "content": {
+                "color": "green",
+                "value": 93
+            },
+            "frame_name": "611800124"
+        },
+        {
+            "health": {
+                "color": "green",
+                "value": 100
+            },
+            "content": {
+                "color": "green",
+                "value": 93
+            },
+            "frame_name": "611800192"
+        },
+        {
+            "health": {
+                "color": "green",
+                "value": 100
+            },
+            "content": {
+                "color": "green",
+                "value": 93
+            },
+            "frame_name": "611800118"
+        }
+    ],
+    "code": 200,
+    "inverter": {
+        "color": "red",
+        "value": "error"
+    }
+}
