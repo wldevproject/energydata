@@ -1,16 +1,16 @@
 {
-    "rack_sn": "RLS002",
+    "rack_sn": "RLS001",
     "battery": [
         {
             "health": {
-                "color": "red",
-                "value": 35
+                "color": "green",
+                "value": 100
             },
             "content": {
-                "color": "green",
-                "value": 93
+                "color": "yellow",
+                "value": 75
             },
-            "frame_name": "611800121"
+            "frame_name": "611800001"
         },
         {
             "health": {
@@ -18,76 +18,10 @@
                 "value": 100
             },
             "content": {
-                "color": "green",
-                "value": 93
+                "color": "yellow",
+                "value": 75
             },
-            "frame_name": "611800123"
-        },
-        {
-            "health": {
-                "color": "green",
-                "value": 100
-            },
-            "content": {
-                "color": "green",
-                "value": 93
-            },
-            "frame_name": "611800154"
-        },
-        {
-            "health": {
-                "color": "green",
-                "value": 100
-            },
-            "content": {
-                "color": "green",
-                "value": 93
-            },
-            "frame_name": "611800182"
-        },
-        {
-            "health": {
-                "color": "green",
-                "value": 100
-            },
-            "content": {
-                "color": "green",
-                "value": 93
-            },
-            "frame_name": "611800165"
-        },
-        {
-            "health": {
-                "color": "green",
-                "value": 100
-            },
-            "content": {
-                "color": "green",
-                "value": 93
-            },
-            "frame_name": "611800124"
-        },
-        {
-            "health": {
-                "color": "green",
-                "value": 100
-            },
-            "content": {
-                "color": "green",
-                "value": 93
-            },
-            "frame_name": "611800192"
-        },
-        {
-            "health": {
-                "color": "green",
-                "value": 100
-            },
-            "content": {
-                "color": "green",
-                "value": 93
-            },
-            "frame_name": "611800118"
+            "frame_name": "611800002"
         }
     ],
     "code": 200,
