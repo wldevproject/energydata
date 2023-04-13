@@ -2,37 +2,26 @@
     {
         "health": {
             "color": "green",
-            "value": 100
+            "value": 96.3
         },
         "content": {
-            "color": "green",
-            "value": 98.6
-        },
-        "cycling": false,
-        "rack_sn": "RLS001"
-    },
-    {
-        "health": {
-            "color": "red",
-            "value": 20
-        },
-        "content": {
-            "color": "red",
-            "value": 15
+            "color": "yellow",
+            "value": 57.5
         },
         "cycling": false,
         "rack_sn": "RLS002"
     },
     {
+        "mode": "charging",
         "health": {
-            "color": "yellow",
-            "value": 66.7
+            "color": "green",
+            "value": 100
         },
         "content": {
             "color": "yellow",
-            "value": 56.3
+            "value": 75
         },
-        "cycling": false,
-        "rack_sn": "RLS003"
+        "cycling": true,
+        "rack_sn": "RLS001"
     }
 ]
